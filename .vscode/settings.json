@@ -1,0 +1,7 @@
+{
+    "editor.fontFamily": "\"Fira Code\"",
+    "editor.codeLensFontFamily": "\"Fira Code\"",
+    "editor.inlayHints.fontFamily": "\"Fira Code\"",
+    "scm.inputFontFamily": "\"Fira Code\"",
+    "terminal.integrated.fontFamily": "\"Fira Code\""
+}
